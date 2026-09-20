@@ -125,15 +125,12 @@ Emotion recognition application using Machine Learning and Computer Vision.
 
 ---
 
-# 💼 Experience
+# Deepfake detection
+DeepGuard — Deepfake Detection System
 
-## 🌍 AIESEC Intern
-
-- Collaborating with cross-functional teams.
-- Participating in leadership development initiatives.
-- Strengthening communication, teamwork, and project management skills.
-
----
+• Developed a deep-learning-based system to detect manipulated facial images/videos using PyTorch, OpenCV, and MTCNN.
+• Implemented automated face extraction, preprocessing, frame-level analysis, and Real/Deepfake classification for media authenticity detection.
+• Designed a modular computer-vision pipeline for scalable inference and integration into real-world applications.
 
 # 🏆 Leadership
 
